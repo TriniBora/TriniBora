@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Trinidad Boragini, AKA @TriniBora
-- 👀 I’m interested in improve my skills as a Full stack Developer
-- 🌱 I’m currently learning Python and Java (yes both!) and some other things such as HTML, CSS and JS, Vue, Flask among others
-- 💞️ Actually I’m collaborating on different projects with teammates from Codo a Codo and CoderHood Academy
-- 📫 How to reach me, right here: mtboragini@gmail.com
+Hi, I’m Trinidad Boragini, AKA @TriniBora
+👀 I’m interested in improving my skills as a Full stack Developer
+🌱 I took Python and Java (yes both!) courses which also involves some other techs such as HTML, CSS and JS, Vue, Flask among others
+💞️ Currently I’m working on small React & Nodejs projects 
+📫 How to reach me, right here: https://www.linkedin.com/in/trinidadboragini/
 
 <!---
 TriniBora/TriniBora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
