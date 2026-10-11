@@ -1,8 +1,9 @@
-- Hi, I’m Trinidad Boragini, AKA @TriniBora
-- 👀 I’m interested in improving my skills as a Fullstack Web Developer
-- 🌱 I took diferent courses: Fullstack Python, Fullstack Java, React Specialization among others
-- ✨ Currently I’m teaching Maths and working as Freelance Fullstack Developer at V&H Sistemas Informáticos
-- 📫 How to reach me, right here: https://www.linkedin.com/in/trinidadboragini/
+- Hi, I'm Trinidad Boragini
+- 👀 I'm a Full-Stack Web Developer currently expanding into networking and cybersecurity
+- 🌱 I took different courses: Full-Stack Python, Full-Stack Java, React Specialization, among others
+- 🎓 Pursuing a Bachelor's Degree in Networks and Telecommunications · Cisco Networking Academy certified
+- ✨ I teach Math and work as a freelance Full-Stack Developer at V&H Sistemas Informáticos
+- 📫 Reach me here: https://www.linkedin.com/in/trinidadboragini/
 
 <!---
 TriniBora/TriniBora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
